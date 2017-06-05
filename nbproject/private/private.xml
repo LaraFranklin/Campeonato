@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/CrearJugadorGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/TablaPosiciones.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/DAO/JugadorJpaController.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/Jugador.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/CampeonatoSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/NewClass.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/Partido.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/EquiposGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/GoleadoresGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/PartidoPK.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/gestionCampeonatoGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/JugadoresGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/META-INF/persistence.xml</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/CampeonatoPrincipal.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/TablaPosicionesSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/FasesFinalesGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/DAO/NewClass.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/JugadorSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/EquipoSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/GoleadoresSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/CrearEquipoGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/partidosGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/GUI/PrincipalGUI.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/EtapaSRV.java</file>
+            <file>file:/home/lara/Escritorio/campeonato/src/campeonato/SRV/MODELOS/GrupoEquipo.java</file>
+        </group>
+    </open-files>
+</project-private>
